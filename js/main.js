@@ -323,4 +323,3 @@ function initApp(){
 
 document.addEventListener("DOMContentLoaded", initApp, false);
 
-//Commit Change Test
